@@ -8,7 +8,6 @@ Site institucional responsivo desenvolvido com HTML5, CSS3 e JavaScript puro.
 - `sobre.html`: história, missão, visão e valores
 - `contato.html`: canais de contato e formulário completo
 - `style.css`: identidade visual, layout mobile-first e breakpoints
-- `script.js`: navegação mobile e retorno do formulário demonstrativo
 
 ## Como visualizar
 
@@ -16,4 +15,4 @@ Abra `index.html` no navegador ou execute com a extensão Live Server do VS Code
 
 ## Responsividade
 
-O layout começa pelo mobile e recebe adaptações em `600px`, `768px` e `1050px`, incluindo a mudança do menu vertical para horizontal.
+O layout começa pelo mobile e usa apenas um breakpoint em `768px`, incluindo a mudança do menu vertical para horizontal.
